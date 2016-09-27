@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\r1.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\drawable-ldpi\\r1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\circle.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\drawable-ldpi\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\drawable-ldpi\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fab_shape.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\drawable-ldpi\\fab_shape.xml"
+    }
+]

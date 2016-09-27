@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffc7">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rl"
+        android:layout_alignParentTop="true">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:textColor="#00f"
+            android:textSize="25sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="50dp"
+            android:id="@+id/resultpoint"
+            android:typeface="sans"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:textColor="#0f0"
+            android:layout_below="@+id/resultpoint"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_alignParentStart="true"
+            android:id="@+id/comment"
+            android:typeface="sans"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rl1"
+        android:layout_below="@+id/rl"
+        android:layout_marginTop="30dp">
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/CustomRatingBar"
+            android:id="@+id/resultRating"
+            android:layout_centerInParent="true"
+            android:numStars="3"
+            android:isIndicator="true"
+            android:stepSize="0.1"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl1"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/replay"
+            android:text="Replay"
+            android:layout_margin="10dp"
+            android:textColor="#00f"
+            android:textSize="10sp"
+            android:background="@drawable/box_button_circle"
+            android:layout_toStartOf="@+id/home"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/home"
+            android:text="home"
+            android:textColor="#00f"
+            android:textSize="10sp"
+            android:layout_margin="10dp"
+            android:background="@drawable/box_button_circle"
+            android:layout_centerInParent="true"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/forward"
+            android:text="forward"
+            android:layout_margin="10dp"
+            android:textColor="#00f"
+            android:textSize="10sp"
+            android:background="@drawable/box_button_circle"
+            android:layout_toEndOf="@+id/home"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

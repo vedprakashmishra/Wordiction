@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\level1.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\level1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\l1.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\l1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\f1.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\f1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tabbar_view.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\menu_tabbar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\f3.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\f3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\f2.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\f2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\frag1.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\frag1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mad__math.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\menu_mad__math.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\levels.xml",
+        "source": "C:\\Users\\Rohit\\AndroidStudioProjects\\Wordiction1\\app\\src\\main\\res\\menu\\levels.xml"
+    }
+]
